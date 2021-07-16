@@ -47,8 +47,8 @@ Dentro de cada carpeta encontraras todas las imagenes necesarias para
 Ahora que ya sabes crear tus diseños a mano, vamos a explorar
 algunas herramientas que te pueden facilitar el trabajo.
 
+- Centraliza todos valores usando [Variables CSS]((https://developer.mozilla.org/es/docs/Web/CSS/Using_CSS_custom_properties))
 - Reescribe tus estilos usando [SASS](https://sass-lang.com/guide)
 - Reimplementa los ejercicios usando [TailwindCSS](https://tailwindcss.com) y/o [Bootstrap](https://getbootstrap.com/)
 - Optimiza tu sitio utilizando [parcel](https://parceljs.org/) y/o [webpack](https://webpack.js.org/)
-- Centraliza todos valores usando [Variables CSS]((https://developer.mozilla.org/es/docs/Web/CSS/Using_CSS_custom_properties))
   
