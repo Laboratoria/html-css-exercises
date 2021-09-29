@@ -31,6 +31,7 @@ recursos y para aquellos marcados con `*` te asegures de completarlos:
   / [Chrome](https://chrome.google.com/webstore/detail/measure-it/jocbgkoackihphodedlefohapackjmna?hl=en)
 - [ColorZilla](https://www.colorzilla.com/)
 - WhatFont [Firefox](https://addons.mozilla.org/en-US/firefox/addon/zjm-whatfont/) / [Chrome](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
+- [Responsively](https://responsively.app/)
   
 ## Ejercicios
 
